@@ -268,7 +268,7 @@ Visualizes customer clusters in 2D space using principal component analysis
 
 ---
 
-## 🎯 Project Highlights for CV/Portfolio
+## 🎯 Project Highlights 
 
 ### **Quantified Results**
 - Engineered RFM framework and segmented **5,000+ customers** into 5 actionable tiers
@@ -314,10 +314,8 @@ Visualizes customer clusters in 2D space using principal component analysis
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+**[Avisikta Das]**
+- Email: avisikta.bhu.stats26@gmail.com
 
 ---
 
